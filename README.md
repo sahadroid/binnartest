@@ -21,4 +21,4 @@ f.Single Data Organizers
 ![image](https://user-images.githubusercontent.com/27715383/209503532-7186a0d0-84f0-41bc-82c3-e2263d70d519.png)
 
 g.Postman Test Request
-![image](https://user-images.githubusercontent.com/27715383/209503629-8bf42025-10c3-4a28-b346-51ea0c6d3279.png)
+![image](https://user-images.githubusercontent.com/27715383/209504140-972840b8-4ca7-404d-a64b-0d2544a30dbf.png)
