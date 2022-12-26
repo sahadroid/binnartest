@@ -82,7 +82,7 @@ class UsersController extends Controller
 
         return response([
             'title' => 'Delete User',
-            'data' => $res
+            'status' => "successfull"
         ], 200);   
 
     }

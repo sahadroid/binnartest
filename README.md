@@ -14,3 +14,8 @@ c. Show Data - Single User
 d. Edit User
 ![image](https://user-images.githubusercontent.com/27715383/209503153-8e5ecba5-c0df-4d77-bf16-11b502d14d51.png)
 
+e. All Data SportEvent
+![image](https://user-images.githubusercontent.com/27715383/209503443-5a8c6a30-f77f-4ffd-845c-a9c4f6a575e4.png)
+
+f.Single Data Organizers
+![image](https://user-images.githubusercontent.com/27715383/209503532-7186a0d0-84f0-41bc-82c3-e2263d70d519.png)
