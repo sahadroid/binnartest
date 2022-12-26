@@ -24,7 +24,6 @@ class UsersController extends Controller
 
     }
 
-
     public function login(Request $request)
     {   
         $json = file_get_contents('php://input');
