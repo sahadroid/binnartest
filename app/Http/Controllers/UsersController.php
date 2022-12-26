@@ -68,7 +68,7 @@ class UsersController extends Controller
 
         return response([
             'title' => 'Update User',
-            'data' => $res
+            'data' => $inputs
         ], 200);   
 
     }
